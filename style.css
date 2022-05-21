@@ -34,7 +34,7 @@ body {
 
     overflow: overlay;
 
-    background-color: var(--segundary-color)  /* mudei aqui tbm */
+    background-color: var(--segundary-color)  
 }
 
 ul {
@@ -424,7 +424,7 @@ body.menu-expanded button  path {
 /*============= Price ============================*/
 #price {
     text-align: left;
-    background-color: hsl(0, 0%, 3%);                /*mudei aqui tbm */
+    background-color: hsl(0, 0%, 3%);                
     
 }
 
